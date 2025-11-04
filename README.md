@@ -49,10 +49,4 @@ Here are a few projects I've worked on. Feel free to take a look!
     * [**➡️ View Repository**](https://github.com/namenok/FAST-API-service)
 ---
 
-### 📫 How to reach me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/oryna-znamenok-02a002385/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
