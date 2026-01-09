@@ -34,19 +34,4 @@ Here are the technologies I work with most frequently:
 
 ---
 
-### 🚀 My Projects
-
-Here are a few projects I've worked on. Feel free to take a look!
-
-* **MindSpace**
-    * This is a Django-based web platform designed to help users track their mental health, write personal reflections, upload media, complete self-reflection surveys, and chat with an AI assistant.
-    * *Technologies: Django, PostgreSQL, AI, Docker, REST API*
-    * [**➡️ View Repository**](https://github.com/namenok/project15.03)
-
-* **FAST-API-service**
-    * Build an event tracking and analytics service with idempotent event ingestion, data storage, analytical endpoints (DAU, top events, retention), and a CLI tool for importing historical CSV data.
-    * *Technologies: FastAPI, PostgreSQL, SQLAlchemy, Docker, Pytest*
-    * [**➡️ View Repository**](https://github.com/namenok/FAST-API-service)
----
-
 
